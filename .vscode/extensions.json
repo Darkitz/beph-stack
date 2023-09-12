@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "oven.bun-vscode",
+    "naumovs.color-highlight",
+    "firefox-devtools.vscode-firefox-debug",
+    "esbenp.prettier-vscode",
+    "prisma.prisma",
+    "bradlc.vscode-tailwindcss",
+    "ms-vscode-remote.remote-wsl",
+    "eamodio.gitlens"
+  ]
+}
